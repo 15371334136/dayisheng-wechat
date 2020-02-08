@@ -75,6 +75,14 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 .label {
   font-size:14px;
   text-align:left;
@@ -104,4 +112,18 @@
   font-style:normal;
   font-size:13px;
   color:#000000;
+}
+.box_11 {
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+.line1 {
+}
+.ellipse1 {
+}
+.placeholder1 {
+}
+.table_cell {
 }
